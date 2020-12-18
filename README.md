@@ -14,7 +14,7 @@
 
 🔍 A MERN stack application e-commerce site that uses Stripe payments.
 
-**[Deployed Application](https:-------herokuapp.com/)**
+**[Deployed Application](https://fierce-beyond-52584.herokuapp.com/)**
   
 💻 Below is a screenshot of the application:
   
