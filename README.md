@@ -1,4 +1,4 @@
-<h1 align="center">MERN Redux E-Commerce Store/h1>
+<h1 align="center">MERN Redux E-Commerce Store
    
 <p align="center">
     <img src="https://img.shields.io/badge/javascript-yellow" />
