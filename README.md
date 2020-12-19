@@ -18,7 +18,7 @@
   
 💻 Below is a screenshot of the application:
   
-![book-search-engine](application.png)
+![book-search-engine](client/public/images/application.png)
 
 ## User Story
 
